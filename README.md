@@ -12,4 +12,4 @@ If on Linux, install Wine and run it using `wine cmd /c betch.cmd`
 
 # Credits
 
-rem - why did i make this
+Beef - why did i make this

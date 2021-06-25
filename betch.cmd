@@ -1,6 +1,6 @@
 :: betch
 :: A fetch script written in Batch.
-:: Created by rem
+:: Created by Beef
 :: I hate myself
 
 :: Initial Load
